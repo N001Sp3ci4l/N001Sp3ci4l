@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @N001Sp3ci4l
+- 👀 I’m interested in learning to code for cybersecurity and machine learning for AI ...
+- 🌱 I’m currently learning Kotlin through the Android/Google Developer Pathways ...
+- 💞️ I’m looking to collaborate on Cyber-Security soultions for individuals and small businesses ...
+- 📫 How to reach me adayinthelifeofjeremy@gmail.com...
+
+<!---
+N001Sp3ci4l/N001Sp3ci4l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+// C# is my favorite language so far as it is strict and the language I first got my feet wet in with respect to coding.
+
+// How to stay motivated... /* "Get Up... Make Your Bed... Eat Breakfast... Brush Your Teeth... Change The World..." */
